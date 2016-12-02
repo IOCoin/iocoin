@@ -1,4 +1,6 @@
-I/O Digital BlockChain Development
+I/O Digital BlockChain Development & DIONS BETA Announcement 
+
+Our Dev team is currently working on DIONS (decentrilized i/o name server). We have been in development of DIONS for almost 1 1/2 years and we are currently in final beta stage. Our source code is currently in a private repo account. We will be doing a pull request once we are done with our beta testing phase. An infographics on DIONS is slated to come out in the next weeks with more info on DIONS. To check on current progress please join our slack channel www.iodigital.io/slack  
 
 I/O Coin development tree
 
