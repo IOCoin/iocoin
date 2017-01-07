@@ -2,8 +2,6 @@ I/O Digital BlockChain Development & DIONS BETA Announcement
 
 Our Dev team is currently working on DIONS (decentrilized i/o name server). We have been in development of DIONS for almost 1 1/2 years and we are currently in final beta stage. Our source code is currently in a private repo account. We will be doing a pull request once we are done with our beta testing phase. We have released our DIONS infographics here http://www.iodigital.io/dions/. To check on current progress please join our slack channel www.iodigital.io/slack our Foundation website can be found at www.iodigital.io and the latest wallets at www.iocoin.io If you are a developer looking to join our final DIONS beta stress test, please join our slack for more information.  
 
-I/O Coin development tree
-
 I/O Coin is a PoS I/O based cryptocurrency.
 
 Features:
@@ -12,7 +10,7 @@ Features:
 * Constant interest 2%, based on the percentage of coins staking
 * POS I/O [Volume Controlled] BlockChain
 * POS 2 [Coin Age Removed]
-* 16 Million PoW coins
+* 16 Million PoW/PoS coins
 * 22 Million total coins
 * 1250 I/O block reward, first 30 blocks half (625)
 * 12815 PoW block limit
