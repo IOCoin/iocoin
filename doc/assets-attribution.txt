@@ -54,6 +54,5 @@ Designer: Crobbo (forum)
 Site: https://bitcointalk.org/index.php?topic=32273.0
 License: Public domain
 
-I/OCoin Logo
-Designer: Evan
-License: Creative Commons Attribution 4.0 International License
+I/O Coin & I/O Digital Logo
+License: I/O Digital Foundation
