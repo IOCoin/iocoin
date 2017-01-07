@@ -35,7 +35,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-stable release versions of I/OCoin.
+stable release versions of I/O Coin.
 
 Feature branches are created when there are major new features being
 worked on by several people.
