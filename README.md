@@ -6,7 +6,10 @@ I/O Coin is a PoS I/O based cryptocurrency.
 
 Features:
 * Symbol: IOC
-* 16 second blocktime
+* 16 Second Granularity
+* 64 Second Expected Blocktime
+* 15 Second Future limit
+* Past limit: Time of Last Block
 * Constant interest 2%, based on the percentage of coins staking
 * POS I/O [Volume Controlled] BlockChain
 * POS 2 [Coin Age Removed]
