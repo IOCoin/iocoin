@@ -1,6 +1,14 @@
 I/O Digital (I/O COIN) BlockChain Development we are a Netherlands based Foundation;
 
-Our Dev team is currently working on DIONS (decentrilized i/o name server). We have been in development of DIONS for almost 1 1/2 years and we are currently in final beta stage. Our source code for DIONS is now Open Source https://github.com/IOCoin/DIONS. We will be doing a pull request once we are done with our beta testing phase. We have released our DIONS infographics here http://www.iodigital.io/dions/. To check on current progress please join our slack channel www.iodigital.io/slack our Foundation website can be found at www.iodigital.io and the latest wallets at www.iocoin.io If you are a developer looking to join our final DIONS beta stress test, please join our slack for more information.  You can check current progress in this video link below. We are weeks away from doing a pull request to our repo. 
+Our Dev team is currently working on DIONS (decentrilized i/o name server). We have been in development of DIONS for almost 1 1/2 years and we are currently in final beta stage. 
+
+Our source code for DIONS is now Open Source CLICK BELOW
+===========================
+
+https://github.com/IOCoin/DIONS. 
+
+
+We will be doing a pull request once we are done with our beta testing phase. We have released our DIONS infographics here http://www.iodigital.io/dions/. To check on current progress please join our slack channel www.iodigital.io/slack our Foundation website can be found at www.iodigital.io and the latest wallets at www.iocoin.io If you are a developer looking to join our final DIONS beta stress test, please join our slack for more information.  You can check current progress in this video link below. We are weeks away from doing a pull request to our repo. 
 
 please click below to check out our latest progress with DIONS
 
