@@ -36,7 +36,7 @@ Features:
 * RPC Port: 33765
 * Dedicated Node: 192.99.169.172
 
-For Faster sync please download our bootstrap https://github.com/IOCoin/iocoin/releases/tag/bootstrap1.3M
+For Faster sync please download our bootstrap Dev sig; 11b32219fe22dd7e28218355ed5ab725e7cce0c458b9f762bd912de811476ab8 height=4751212 https://iocbootstrap.s3.us-east-2.amazonaws.com/bootstrap.zip
 
 Development process
 ===========================
