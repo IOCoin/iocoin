@@ -1,6 +1,3 @@
-I/O Digital (I/O COIN) BlockChain Development we are a Netherlands based Foundation;
-Our Dev team is currently working on DIONS (decentrilized i/o name server). We have been in development of DIONS for almost 1 1/2 years and we are currently in final beta stage. 
-
 We have upgraded our Blockchain Platform, We have a new repository for I/O COIN - DIONS 
 all new updates will be handled in our new repo. Thank You 
 ===========================
